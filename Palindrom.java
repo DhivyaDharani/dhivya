@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class Palindrome
+public class Palindrom
 {
 public static void main(String args[])
 {
