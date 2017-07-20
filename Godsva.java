@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class godsva
+public class Godsva
 {
 	public static void main(String args[])throws IOException
 	{
